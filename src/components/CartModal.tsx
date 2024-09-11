@@ -49,7 +49,7 @@ const CartModal = () => {
           {/* ITEM */}
           <div className="https://images.pexels.com/photos/28167649/pexels-photo-28167649/free-photo-of-a-woman-in-traditional-clothing-standing-in-a-doorway.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load">
             <Image
-              src=''
+              src='https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800'
               alt=""
               width={72}
               height={96}
